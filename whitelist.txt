@@ -2,7 +2,7 @@
 ! Title: My meager whitelist file
 !
 ! ------------------------------------[FILTERS]-------------------------------------
-||translink.co.uk
-||g2a.com
-||libgen.li
-||marksandspencer.com
+@@||translink.co.uk^
+@@||g2a.com^
+@@||libgen.li^
+@@||marksandspencer.com^
