@@ -8,4 +8,5 @@
 @@||marksandspencer.com^
 @@||belfastlive.com^
 @@||nowtv.com^
-pubads.g.doubleclick.net
+pubads.g.doubleclick.net^
+api2.branch.io^
