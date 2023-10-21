@@ -10,5 +10,7 @@
 @@||nowtv.com^
 @@||github.com^
 @@||aliexpress.com^
+@@||qsc.com^
+@@||qsys.com^
 pubads.g.doubleclick.net^
 api2.branch.io^
